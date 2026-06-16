@@ -12,8 +12,6 @@
 - stable-baselines3 2.4+
 - numpy, matplotlib, scipy, imageio, shapely
 
-推荐使用 conda 环境 `face_recognition`（已包含所有依赖）。
-
 ## 快速开始
 
 ### 1. 训练模型
