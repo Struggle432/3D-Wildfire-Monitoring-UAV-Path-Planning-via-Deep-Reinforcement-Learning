@@ -17,7 +17,7 @@
 ### 1. 训练模型
 
 ```bash
-# 激活环境
+# 激活环境，该环境为我自己的，使用的话自己调整
 conda activate face_recognition
 
 # 训练PPO模型（约60分钟，GPU加速）
