@@ -1,5 +1,6 @@
 # 视频文件夹
 ## 视频内容说明（由于不支持在线观看，需要手动View Raw下载观看）
+# 强烈建议到B站观看完整视频：https://www.bilibili.com/video/BV192LX61EHx?vd_source=0c6b98d0b01387cf6459c08132f0e2fe
 1. **`ppo_monitoring.mp4` (PPO监测)**
    * 顶部实时显示当前 `Step`、`Coverage` 和 `Reward` 指标。
    * 同时展示 2D 平面投影与 3D 仿真环境。
